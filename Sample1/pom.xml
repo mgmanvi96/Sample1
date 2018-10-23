@@ -5,7 +5,7 @@
   <artifactId>Sample</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <!-- Comment 2 -->
   <name>Sample</name>
   <url>http://maven.apache.org</url>
   <!-- Comment -->
