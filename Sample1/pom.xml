@@ -8,7 +8,7 @@
   
   <name>Sample</name>
   <url>http://maven.apache.org</url>
-  
+  <!-- Comment -->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
